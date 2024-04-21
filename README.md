@@ -1,2 +1,2 @@
 # demo_ai
-Ergonomic API &amp; deep learning
+Ergonomic API &amp; deep learning - in progress
